@@ -8,5 +8,5 @@ Below is a brief description of each analysis included in this repository.
 2. Paired Sample T-Test
 3. Independent Sample T-Test
 4. ANOVA
-5. Pearson Correlation![Pearson Correlation](Pearson correlation.png)
+5. Pearson Correlation
 6. Chi-Square Test
