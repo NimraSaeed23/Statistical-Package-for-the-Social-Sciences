@@ -1,9 +1,0 @@
-mkdir images
-cp /path/to/your/image.png images/
-
-git add images/
-git commit -m "Add images for README"
-
-git push origin main
-
-
